@@ -1,0 +1,16 @@
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\bin\Debug\net8.0\HospitalManagement.BUSINESS.deps.json
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\bin\Debug\net8.0\HospitalManagement.BUSINESS.dll
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\bin\Debug\net8.0\HospitalManagement.BUSINESS.pdb
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\bin\Debug\net8.0\HospitalManagement.COMMON.dll
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\bin\Debug\net8.0\HospitalManagement.COMMON.pdb
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\HospitalManagement.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\HospitalManagement.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\HospitalManagement.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\HospitalManagement.BUSINESS.AssemblyInfo.cs
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\HospitalManagement.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\HospitalManagement.BUSINESS.sourcelink.json
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\Hospital.084146CA.Up2Date
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\HospitalManagement.BUSINESS.dll
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\refint\HospitalManagement.BUSINESS.dll
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\HospitalManagement.BUSINESS.pdb
+C:\Users\germr\source\repos\HospitalManagement\HospitalManagement.BUSINESS\obj\Debug\net8.0\ref\HospitalManagement.BUSINESS.dll
