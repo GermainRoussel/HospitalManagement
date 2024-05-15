@@ -1502,6 +1502,16 @@
             "rid": "win"
           }
         }
+      },
+      "HospitalManagement.COMMON/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HospitalManagement.COMMON.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HospitalManagement.COMMON.dll": {}
+        }
       }
     }
   },
@@ -4096,10 +4106,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "HospitalManagement.COMMON/1.0.0": {
+      "type": "project",
+      "path": "../HospitalManagement.COMMON/HospitalManagement.COMMON.csproj",
+      "msbuildProject": "../HospitalManagement.COMMON/HospitalManagement.COMMON.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "HospitalManagement.COMMON >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.5",
@@ -4132,7 +4148,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\germr\\source\\repos\\HospitalManagement\\HospitalManagement.COMMON\\HospitalManagement.COMMON.csproj": {
+              "projectPath": "C:\\Users\\germr\\source\\repos\\HospitalManagement\\HospitalManagement.COMMON\\HospitalManagement.COMMON.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

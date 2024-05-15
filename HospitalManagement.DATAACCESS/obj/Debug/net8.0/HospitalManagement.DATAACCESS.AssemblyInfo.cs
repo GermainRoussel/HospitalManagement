@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HospitalManagement.DATAACCESS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c75ef559880c795eaa656eef55b26efa7060d35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b51daeb95ef2364e678f52168d6393b9b309d748")]
 [assembly: System.Reflection.AssemblyProductAttribute("HospitalManagement.DATAACCESS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HospitalManagement.DATAACCESS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
